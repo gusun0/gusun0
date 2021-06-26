@@ -7,7 +7,7 @@
   <li>🗯️ 25 years</li>
   <li>🇲🇽 Mexican</li>
   <li>📱 TechLover</li>
-  <li>🗣️ English and Spanish</li>
+  <li>🗣️ Intermediate English and Spanish</li>
   <li>🤓 Nerdy but cool </li>
   <li>🎵 Love music </li>
 <ul>
