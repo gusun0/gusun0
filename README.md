@@ -1,8 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Abraham </h1>
 <h3 aling="center">I study an engineering in computer systems. I love learning new stuff every time I can <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" height="350" />
-
 ### About me
 <ul>
   <li>👩 He/Him</li>
@@ -33,9 +31,6 @@
 <br> <br> 
 
 <p>Social Media</p>
-<a href="https://www.instagram.com/mae_mazcortwo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/abalso/">
     <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
