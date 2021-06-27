@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Abraham </h1>
-<h3 aling="center">I study an engineering in computer systems.</h3>
+<h3 aling="center">I study an Engineering in Computer Systems.</h3>
 
 ### About me
 <ul>
@@ -8,7 +8,6 @@
   <li>🇲🇽 Mexican</li>
   <li>📱 TechLover</li>
   <li>🗣️ Intermediate English and Spanish</li>
-  <li>🤓 Nerdy but cool </li>
   <li>🎵 Love music </li>
 <ul>
 
