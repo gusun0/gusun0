@@ -3,10 +3,9 @@
 
 ### About me
 <ul>
-  <li>👩 He/Him</li>
+  <li🧑 He/Him</li>
   <li>🗯️ 25 years</li>
   <li>🇲🇽 Mexican</li>
-  <li>📱 TechLover</li>
   <li>🗣️ Intermediate English and Spanish</li>
   <li>🎵 Love music </li>
 <ul>
