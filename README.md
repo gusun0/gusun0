@@ -3,7 +3,7 @@
 
 ### About me
 <ul>
-  <li🧑 He/Him</li>
+  <li>🧑 He/Him</li>
   <li>🗯️ 25 years</li>
   <li>🇲🇽 Mexican</li>
   <li>🗣️ Intermediate English and Spanish</li>
