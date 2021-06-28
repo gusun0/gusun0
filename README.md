@@ -12,7 +12,7 @@
 
 ### I'm currently
 <ul>
-  <li>🥖 Learning Portuguese</li>
+  <li>📚 Learning Portuguese</li>
   <li>🐍 Learning Python</li>
 </ul>
 <br>
