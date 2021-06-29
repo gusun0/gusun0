@@ -11,8 +11,9 @@
 
 ### I'm currently
 <ul>
-  <li>📚 Learning Portuguese</li>
   <li>🐍 Learning Python</li>
+  <li>⚛️ Learning React JS</li>
+  <li>💻 Learning Node JS</li>
 </ul>
 <br>
   
