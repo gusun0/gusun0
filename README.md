@@ -3,9 +3,8 @@
 
 ### About me
 <ul>
-  <li>🧑 He/Him</li>
   <li>🇲🇽 Mexican</li>
-  <li>💬 Intermediate English and Spanish</li>
+  <li>💬 Intermediate English</li>
   <li>🎵 Love music</li>
 <ul>
 
