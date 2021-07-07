@@ -11,7 +11,7 @@
 ### I'm currently
 <ul>
   <li>🐍 Learning Python</li>
-  <li>⚛️ Learning React JS</li>
+  <li>⚛️ Learning JS</li>
   <li>💻 Learning Node JS</li>
 </ul>
 <br>
